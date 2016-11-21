@@ -15,7 +15,7 @@ angular.module('directory', ['ionic', 'forceng', 'directory.controllers'])
 
             force.init({
                 // Required: clientId of Salesforce Connected App
-                appId: '3MVG9xOCXq4ID1uHBRAO6uf8oDSsdNSAGP8dOpxiL1Mb7fkEsLMhgw2Q.pDfBnBatDYNc9qWvvAHAUCrlYSbb',
+                appId: '3MVG9od6vNol.eBgdhu.ShmdYDGqKlpq2mVErmAKosX2D7QbLWjkQSyfkZZyrKvhUSgvHZg9ZTyH3ghi0Vow8',
                 // optional: defaults to 'v30.0'
 //                apiVersion: 'v30.0',
                 // optional: defaults to window.sessionStorage

@@ -6,7 +6,7 @@ angular.module('forceng', [])
 
     .factory('force', function ($rootScope, $q, $window, $http) {
 
-        var LOGIN_URL = 'https://login.salesforce.com',
+        var LOGIN_URL = 'https://test.salesforce.com',
 
         // The Connected App client Id
             appId,
